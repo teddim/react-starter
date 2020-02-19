@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "react-dev": "webpack -d --watch",
-    "start": "live-server ./client/dist"
+    "start": "live-server ./dist"
   },
   "keywords": [],
   "author": "",
